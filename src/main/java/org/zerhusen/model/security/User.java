@@ -1,7 +1,8 @@
 package org.zerhusen.model.security;
 
-import java.util.Date;
-import java.util.List;
+import org.junit.jupiter.api.Test;
+
+import java.util.*;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
